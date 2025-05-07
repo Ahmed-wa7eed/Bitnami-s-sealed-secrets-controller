@@ -1,0 +1,1 @@
+# Bitnami-s-sealed-secrets-controller
