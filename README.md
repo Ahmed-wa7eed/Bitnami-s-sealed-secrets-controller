@@ -1,6 +1,7 @@
 # Bitnami's-sealed-secrets-controller
 ## How Sealed Secrets work ?
 ![image alt](https://github.com/Ahmed-wa7eed/Bitnami-s-sealed-secrets-controller/blob/main/how%20Sealed%20Secrets%20work.jpg?raw=true)
+
 🔐 Inside the Kubernetes Cluster:
 1. The Sealed Secrets Controller runs in the kube-system namespace.
 2. It has a key pair (public and private):
