@@ -68,6 +68,8 @@ to ensure security of private key we must ensure:
 - use RBAC
 
 ## References 
+https://github.com/bitnami-labs/sealed-secrets
+
 https://youtu.be/ShGHCpUMdOg
 
 https://www.middlewareinventory.com/blog/kubernetes-cronjob-best-practices/
