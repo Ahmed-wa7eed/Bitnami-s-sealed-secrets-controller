@@ -63,6 +63,7 @@ to ensure security of private key we must ensure:
 
 ## References 
 https://youtu.be/ShGHCpUMdOg
+https://www.middlewareinventory.com/blog/kubernetes-cronjob-best-practices/
 
 
 
