@@ -26,7 +26,7 @@
 
 ## Plan for the Automatic Re-Sealing Feature in `kubeseal`
 
-Add a subcommand called `kubeseal reseal`, developed in **Go language**, and will add some flags to it.
+Add a subcommand called `kubeseal reseal`, developed using **Go language**, and will add some flags to it.
 
 | Flag               | Description                                           |
 |--------------------|-------------------------------------------------------|
